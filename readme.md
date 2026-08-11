@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Aniket Bisht!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=High+School+Student+%F0%9F%8E%93;Beginner+Developer+%F0%9F%92%BB;Learning+C+%7C+Python+%7C+Java;Building+My+Skills+One+Line+at+a+Time+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=High+School+Student+🎓;Beginner+Developer+💻;Learning+C+%7C+Python+%7C+Java;Building+My+Skills+One+Line+at+a+Time+🚀" />
+
 <p align="center">
   <img src="anime.gif" width="500">
 </p>
@@ -11,10 +12,10 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 High school student
-* 🌱 Currently learning **C, Python & Java**
-* 💻 Just getting started with programming
-* 🚀 Learning, building, breaking things, and learning again
+- 🎓 High school student
+- 🌱 Currently learning **C, Python & Java**
+- 💻 Just getting started with programming
+- 🚀 Learning, building, breaking things, and learning again
 * 🎯 Goal: become a better developer every day
 
 ## 🛠️ Currently Learning
