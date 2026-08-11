@@ -1,6 +1,9 @@
 # 👋 Hey, I'm Aniket Bisht!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=High+School+Student+%F0%9F%8E%93;Beginner+Developer+%F0%9F%92%BB;Learning+C+%7C+Python+%7C+Java;Building+My+Skills+One+Line+at+a+Time+%F0%9F%9A%80" />
+<p align="center">
+  <img src="anime.gif" width="500">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header"/>
