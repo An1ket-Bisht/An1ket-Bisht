@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">
-  <img src="video-from-rawpixel-id-17065655-gif.gif" width="500">
+  <img src="video-from-rawpixel-id-17065655-gif.gif" width="800">
 </p>
 
 ## 🧑‍💻 About Me
