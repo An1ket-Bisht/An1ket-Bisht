@@ -30,7 +30,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/An1ket-Bisht/An1ket-Bisht/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/An1ket-Bisht/An1ket-Bisht/gh-pages/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
