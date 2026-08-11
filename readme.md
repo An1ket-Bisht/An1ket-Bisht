@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="anime.gif" width="500">
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header"/>
 </p>
 
