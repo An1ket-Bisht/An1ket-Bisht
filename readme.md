@@ -23,10 +23,9 @@
 </p>
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=An1ket-Bisht&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ket-Bisht&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=An1ket-Bisht&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=An1ket-Bisht&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
 </p>
 
 ## 🐍 Contribution Snake
